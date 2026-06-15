@@ -1,0 +1,12 @@
+{
+  "name": "act_pruebasunitarias",
+  "version": "1.0.0",
+  "description": "Clasificacion de triangulos con pruebas unitarias en Jest",
+  "main": "triangle.js",
+  "scripts": {
+    "test": "jest --runInBand"
+  },
+  "devDependencies": {
+    "jest": "^30.0.5"
+  }
+}
